@@ -1,9 +1,7 @@
 ## Installations
 
 1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
-
+2.  
     ```
     gatsby new my-hello-world-starter https://github.com/RietschLucasEce/gatsby_tutorial
     ```
