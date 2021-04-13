@@ -1,4 +1,10 @@
-## Installations
+## Install Gatsby
+
+```
+    npm install -g gatsby-cli
+```
+    
+## Develop
 
 1.  **Create a Gatsby site.**
 
